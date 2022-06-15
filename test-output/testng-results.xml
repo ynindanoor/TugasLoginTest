@@ -2,82 +2,82 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[<img src='file://D:\selenium-workspace\CicoolPOM\hasilScreenshot\20220615_221811.png'height="500" width="1100"/>]]>
+      <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223239.png'height="500" width="1100"/>]]>
     </line>
     <line>
-      <![CDATA[<img src='file://D:\selenium-workspace\CicoolPOM\hasilScreenshot\20220615_221815.png'height="500" width="1100"/>]]>
+      <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223243.png'height="500" width="1100"/>]]>
     </line>
     <line>
-      <![CDATA[<img src='file://D:\selenium-workspace\CicoolPOM\hasilScreenshot\20220615_221818.png'height="500" width="1100"/>]]>
+      <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223245.png'height="500" width="1100"/>]]>
     </line>
     <line>
-      <![CDATA[<img src='file://D:\selenium-workspace\CicoolPOM\hasilScreenshot\20220615_221820.png'height="500" width="1100"/>]]>
+      <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223248.png'height="500" width="1100"/>]]>
     </line>
     <line>
-      <![CDATA[<img src='file://D:\selenium-workspace\CicoolPOM\hasilScreenshot\20220615_221823.png'height="500" width="1100"/>]]>
+      <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223250.png'height="500" width="1100"/>]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-06-15T22:18:02 WIB" name="Default suite" finished-at="2022-06-15T22:18:23 WIB" duration-ms="20489">
+  <suite started-at="2022-06-15T22:32:32 WIB" name="Default suite" finished-at="2022-06-15T22:32:50 WIB" duration-ms="17670">
     <groups>
     </groups>
-    <test started-at="2022-06-15T22:18:02 WIB" name="Default test" finished-at="2022-06-15T22:18:23 WIB" duration-ms="20489">
+    <test started-at="2022-06-15T22:32:32 WIB" name="Default test" finished-at="2022-06-15T22:32:50 WIB" duration-ms="17670">
       <class name="com.nexsoft.cicool.TestLoginFunction">
-        <test-method is-config="true" signature="init()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:18:02 WIB" name="init" finished-at="2022-06-15T22:18:06 WIB" duration-ms="3901" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:32 WIB" name="init" finished-at="2022-06-15T22:32:35 WIB" duration-ms="3218" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:18:06 WIB" name="cekSession" finished-at="2022-06-15T22:18:07 WIB" duration-ms="664" status="PASS">
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:35 WIB" name="cekSession" finished-at="2022-06-15T22:32:36 WIB" duration-ms="475" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cekSession -->
-        <test-method signature="testLoginWithValidUserAndPassword()[pri:1, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:18:07 WIB" name="testLoginWithValidUserAndPassword" finished-at="2022-06-15T22:18:11 WIB" duration-ms="3543" status="PASS">
+        <test-method signature="testLoginWithValidUserAndPassword()[pri:1, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:36 WIB" name="testLoginWithValidUserAndPassword" finished-at="2022-06-15T22:32:39 WIB" duration-ms="3218" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<img src='file://D:\selenium-workspace\CicoolPOM\hasilScreenshot\20220615_221811.png'height="500" width="1100"/>]]>
+              <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223239.png'height="500" width="1100"/>]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLoginWithValidUserAndPassword -->
-        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:18:11 WIB" name="cekSession" finished-at="2022-06-15T22:18:11 WIB" duration-ms="570" status="PASS">
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:39 WIB" name="cekSession" finished-at="2022-06-15T22:32:40 WIB" duration-ms="516" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cekSession -->
-        <test-method signature="testLoginWithValidUserAndInvalidPassword()[pri:2, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:18:11 WIB" name="testLoginWithValidUserAndInvalidPassword" finished-at="2022-06-15T22:18:15 WIB" duration-ms="3512" status="PASS">
+        <test-method signature="testLoginWithValidUserAndInvalidPassword()[pri:2, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:40 WIB" name="testLoginWithValidUserAndInvalidPassword" finished-at="2022-06-15T22:32:43 WIB" duration-ms="3052" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<img src='file://D:\selenium-workspace\CicoolPOM\hasilScreenshot\20220615_221815.png'height="500" width="1100"/>]]>
+              <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223243.png'height="500" width="1100"/>]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLoginWithValidUserAndInvalidPassword -->
-        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:18:15 WIB" name="cekSession" finished-at="2022-06-15T22:18:15 WIB" duration-ms="521" status="PASS">
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:43 WIB" name="cekSession" finished-at="2022-06-15T22:32:43 WIB" duration-ms="432" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cekSession -->
-        <test-method signature="testLoginWithInvalidUserAndValidPassword()[pri:3, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:18:15 WIB" name="testLoginWithInvalidUserAndValidPassword" finished-at="2022-06-15T22:18:18 WIB" duration-ms="2409" status="PASS">
+        <test-method signature="testLoginWithInvalidUserAndValidPassword()[pri:3, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:43 WIB" name="testLoginWithInvalidUserAndValidPassword" finished-at="2022-06-15T22:32:45 WIB" duration-ms="2018" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<img src='file://D:\selenium-workspace\CicoolPOM\hasilScreenshot\20220615_221818.png'height="500" width="1100"/>]]>
+              <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223245.png'height="500" width="1100"/>]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLoginWithInvalidUserAndValidPassword -->
-        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:18:18 WIB" name="cekSession" finished-at="2022-06-15T22:18:18 WIB" duration-ms="488" status="PASS">
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:45 WIB" name="cekSession" finished-at="2022-06-15T22:32:46 WIB" duration-ms="424" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cekSession -->
-        <test-method signature="testLoginWithEmptyUserAndPassword()[pri:4, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:18:18 WIB" name="testLoginWithEmptyUserAndPassword" finished-at="2022-06-15T22:18:21 WIB" duration-ms="2342" status="PASS">
+        <test-method signature="testLoginWithEmptyUserAndPassword()[pri:4, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:46 WIB" name="testLoginWithEmptyUserAndPassword" finished-at="2022-06-15T22:32:48 WIB" duration-ms="2040" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<img src='file://D:\selenium-workspace\CicoolPOM\hasilScreenshot\20220615_221820.png'height="500" width="1100"/>]]>
+              <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223248.png'height="500" width="1100"/>]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLoginWithEmptyUserAndPassword -->
-        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:18:21 WIB" name="cekSession" finished-at="2022-06-15T22:18:21 WIB" duration-ms="500" status="PASS">
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:48 WIB" name="cekSession" finished-at="2022-06-15T22:32:48 WIB" duration-ms="469" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cekSession -->
-        <test-method signature="testLoginForgotPassword()[pri:5, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:18:21 WIB" name="testLoginForgotPassword" finished-at="2022-06-15T22:18:23 WIB" duration-ms="1939" status="PASS">
+        <test-method signature="testLoginForgotPassword()[pri:5, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:48 WIB" name="testLoginForgotPassword" finished-at="2022-06-15T22:32:50 WIB" duration-ms="1725" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<img src='file://D:\selenium-workspace\CicoolPOM\hasilScreenshot\20220615_221823.png'height="500" width="1100"/>]]>
+              <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223250.png'height="500" width="1100"/>]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLoginForgotPassword -->

@@ -40,7 +40,7 @@ private JavascriptExecutor jsExe;
 	public String screenShot() {
 	File srcFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 	String waktu = new SimpleDateFormat("yyyyMMdd_HHmmss").format(Calendar.getInstance().getTime());
-	String fileName = "D:\\selenium-workspace\\CicoolPOM\\hasilScreenshot\\" + waktu + ".png";
+	String fileName = "D:\\TugasLogin\\Screenshot\\" + waktu + ".png";
 	File screenshot = new File(fileName);
 	try {
 		FileUtils.copyFile(srcFile, screenshot);
