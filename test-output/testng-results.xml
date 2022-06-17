@@ -1,87 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223239.png'height="500" width="1100"/>]]>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152210.png'height="500" width="1100"/>]]>
     </line>
     <line>
-      <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223243.png'height="500" width="1100"/>]]>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152213.png'height="500" width="1100"/>]]>
     </line>
     <line>
-      <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223245.png'height="500" width="1100"/>]]>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152216.png'height="500" width="1100"/>]]>
     </line>
     <line>
-      <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223248.png'height="500" width="1100"/>]]>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152221.png'height="500" width="1100"/>]]>
     </line>
     <line>
-      <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223250.png'height="500" width="1100"/>]]>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152226.png'height="500" width="1100"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152231.png'height="500" width="1100"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152234.png'height="500" width="1100"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152237.png'height="500" width="1100"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152238.png'height="500" width="1100"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152240.png'height="500" width="1100"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152242.png'height="500" width="1100"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152244.png'height="500" width="1100"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152246.png'height="500" width="1100"/>]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-06-15T22:32:32 WIB" name="Default suite" finished-at="2022-06-15T22:32:50 WIB" duration-ms="17670">
+  <suite started-at="2022-06-17T15:22:03 WIB" name="SuiteTest" finished-at="2022-06-17T15:22:46 WIB" duration-ms="42187">
     <groups>
     </groups>
-    <test started-at="2022-06-15T22:32:32 WIB" name="Default test" finished-at="2022-06-15T22:32:50 WIB" duration-ms="17670">
-      <class name="com.nexsoft.cicool.TestLoginFunction">
-        <test-method is-config="true" signature="init()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:32 WIB" name="init" finished-at="2022-06-15T22:32:35 WIB" duration-ms="3218" status="PASS">
+    <test started-at="2022-06-17T15:22:03 WIB" name="Login Function Test" finished-at="2022-06-17T15:22:46 WIB" duration-ms="42187">
+      <class name="com.nexsoft.examweek4.TestRegisterAndLogin">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:03 WIB" name="init" finished-at="2022-06-17T15:22:07 WIB" duration-ms="3664" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:35 WIB" name="cekSession" finished-at="2022-06-15T22:32:36 WIB" duration-ms="475" status="PASS">
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:07 WIB" name="cekSession" finished-at="2022-06-17T15:22:07 WIB" duration-ms="205" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cekSession -->
-        <test-method signature="testLoginWithValidUserAndPassword()[pri:1, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:36 WIB" name="testLoginWithValidUserAndPassword" finished-at="2022-06-15T22:32:39 WIB" duration-ms="3218" status="PASS">
+        <test-method signature="testButtonEnterTheStore()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:07 WIB" name="testButtonEnterTheStore" finished-at="2022-06-17T15:22:10 WIB" duration-ms="2874" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223239.png'height="500" width="1100"/>]]>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152210.png'height="500" width="1100"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testButtonEnterTheStore -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:10 WIB" name="cekSession" finished-at="2022-06-17T15:22:10 WIB" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testButtonSignIn()[pri:1, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:10 WIB" name="testButtonSignIn" finished-at="2022-06-17T15:22:13 WIB" duration-ms="2694" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152213.png'height="500" width="1100"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testButtonSignIn -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:13 WIB" name="cekSession" finished-at="2022-06-17T15:22:13 WIB" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testButtonRegisterNow()[pri:2, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:13 WIB" name="testButtonRegisterNow" finished-at="2022-06-17T15:22:16 WIB" duration-ms="3029" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152216.png'height="500" width="1100"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testButtonRegisterNow -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:16 WIB" name="cekSession" finished-at="2022-06-17T15:22:16 WIB" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testRegisterWithValidUserInformation()[pri:3, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:16 WIB" name="testRegisterWithValidUserInformation" finished-at="2022-06-17T15:22:21 WIB" duration-ms="4950" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152221.png'height="500" width="1100"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testRegisterWithValidUserInformation -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:21 WIB" name="cekSession" finished-at="2022-06-17T15:22:21 WIB" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testRegisterEmailYangSudahTerdaftar()[pri:4, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:21 WIB" name="testRegisterEmailYangSudahTerdaftar" finished-at="2022-06-17T15:22:26 WIB" duration-ms="4865" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152226.png'height="500" width="1100"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testRegisterEmailYangSudahTerdaftar -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:26 WIB" name="cekSession" finished-at="2022-06-17T15:22:26 WIB" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testRegisterUserIdYangSudahTerdaftar()[pri:4, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:26 WIB" name="testRegisterUserIdYangSudahTerdaftar" finished-at="2022-06-17T15:22:31 WIB" duration-ms="4986" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152231.png'height="500" width="1100"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testRegisterUserIdYangSudahTerdaftar -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:31 WIB" name="cekSession" finished-at="2022-06-17T15:22:31 WIB" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testLoginWithValidUserAndPassword()[pri:5, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:31 WIB" name="testLoginWithValidUserAndPassword" finished-at="2022-06-17T15:22:35 WIB" duration-ms="3870" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152234.png'height="500" width="1100"/>]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLoginWithValidUserAndPassword -->
-        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:39 WIB" name="cekSession" finished-at="2022-06-15T22:32:40 WIB" duration-ms="516" status="PASS">
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:35 WIB" name="cekSession" finished-at="2022-06-17T15:22:35 WIB" duration-ms="47" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cekSession -->
-        <test-method signature="testLoginWithValidUserAndInvalidPassword()[pri:2, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:40 WIB" name="testLoginWithValidUserAndInvalidPassword" finished-at="2022-06-15T22:32:43 WIB" duration-ms="3052" status="PASS">
+        <test-method signature="testLoginWithValidUserAndInvalidPassword()[pri:6, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:35 WIB" name="testLoginWithValidUserAndInvalidPassword" finished-at="2022-06-17T15:22:37 WIB" duration-ms="1761" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223243.png'height="500" width="1100"/>]]>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152237.png'height="500" width="1100"/>]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLoginWithValidUserAndInvalidPassword -->
-        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:43 WIB" name="cekSession" finished-at="2022-06-15T22:32:43 WIB" duration-ms="432" status="PASS">
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:37 WIB" name="cekSession" finished-at="2022-06-17T15:22:37 WIB" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cekSession -->
-        <test-method signature="testLoginWithInvalidUserAndValidPassword()[pri:3, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:43 WIB" name="testLoginWithInvalidUserAndValidPassword" finished-at="2022-06-15T22:32:45 WIB" duration-ms="2018" status="PASS">
+        <test-method signature="testLoginWithInvalidUserAndValidPassword()[pri:7, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:37 WIB" name="testLoginWithInvalidUserAndValidPassword" finished-at="2022-06-17T15:22:39 WIB" duration-ms="1700" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223245.png'height="500" width="1100"/>]]>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152238.png'height="500" width="1100"/>]]>
             </line>
           </reporter-output>
         </test-method> <!-- testLoginWithInvalidUserAndValidPassword -->
-        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:45 WIB" name="cekSession" finished-at="2022-06-15T22:32:46 WIB" duration-ms="424" status="PASS">
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:39 WIB" name="cekSession" finished-at="2022-06-17T15:22:39 WIB" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cekSession -->
-        <test-method signature="testLoginWithEmptyUserAndPassword()[pri:4, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:46 WIB" name="testLoginWithEmptyUserAndPassword" finished-at="2022-06-15T22:32:48 WIB" duration-ms="2040" status="PASS">
+        <test-method signature="testLoginWithInvalidUserAndInvalidPassword()[pri:8, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:39 WIB" name="testLoginWithInvalidUserAndInvalidPassword" finished-at="2022-06-17T15:22:40 WIB" duration-ms="1720" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223248.png'height="500" width="1100"/>]]>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152240.png'height="500" width="1100"/>]]>
             </line>
           </reporter-output>
-        </test-method> <!-- testLoginWithEmptyUserAndPassword -->
-        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:48 WIB" name="cekSession" finished-at="2022-06-15T22:32:48 WIB" duration-ms="469" status="PASS">
+        </test-method> <!-- testLoginWithInvalidUserAndInvalidPassword -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:40 WIB" name="cekSession" finished-at="2022-06-17T15:22:40 WIB" duration-ms="40" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cekSession -->
-        <test-method signature="testLoginForgotPassword()[pri:5, instance:com.nexsoft.cicool.TestLoginFunction@783a467b]" started-at="2022-06-15T22:32:48 WIB" name="testLoginForgotPassword" finished-at="2022-06-15T22:32:50 WIB" duration-ms="1725" status="PASS">
+        <test-method signature="testLoginWithEmptyUserAndEmptyPassword()[pri:9, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:40 WIB" name="testLoginWithEmptyUserAndEmptyPassword" finished-at="2022-06-17T15:22:42 WIB" duration-ms="1726" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[<img src='file://D:\TugasLogin\Screenshot\20220615_223250.png'height="500" width="1100"/>]]>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152242.png'height="500" width="1100"/>]]>
             </line>
           </reporter-output>
-        </test-method> <!-- testLoginForgotPassword -->
-      </class> <!-- com.nexsoft.cicool.TestLoginFunction -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- testLoginWithEmptyUserAndEmptyPassword -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:42 WIB" name="cekSession" finished-at="2022-06-17T15:22:42 WIB" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testLoginWithEmptyUserAndValidPassword()[pri:10, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:42 WIB" name="testLoginWithEmptyUserAndValidPassword" finished-at="2022-06-17T15:22:44 WIB" duration-ms="1705" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152244.png'height="500" width="1100"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLoginWithEmptyUserAndValidPassword -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:44 WIB" name="cekSession" finished-at="2022-06-17T15:22:44 WIB" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testLoginWithValidUserAndEmptyPassword()[pri:10, instance:com.nexsoft.examweek4.TestRegisterAndLogin@4efac082]" started-at="2022-06-17T15:22:44 WIB" name="testLoginWithValidUserAndEmptyPassword" finished-at="2022-06-17T15:22:46 WIB" duration-ms="1775" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://D:\ExamWeek4\Screenshot\20220617_152246.png'height="500" width="1100"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLoginWithValidUserAndEmptyPassword -->
+      </class> <!-- com.nexsoft.examweek4.TestRegisterAndLogin -->
+    </test> <!-- Login Function Test -->
+  </suite> <!-- SuiteTest -->
 </testng-results>

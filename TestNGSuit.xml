@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "SuiteTest">
+
+<test name = "Login Function Test">
+
+<classes>
+<class name = "com.nexsoft.examweek4.TestRegisterAndLogin"> </class>
+</classes>
+
+</test>
+
+</suite>

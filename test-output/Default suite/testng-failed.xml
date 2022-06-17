@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.nexsoft.cicool.TestLoginFunction">
+      <class name="com.nexsoft.cicool.TestRegisterFunction">
         <methods>
           <include name="init"/>
-          <include name="testLoginWithEmptyUserAndPassword"/>
           <include name="cekSession"/>
+          <include name="testLoginWithValidUserAndInvalidPassword"/>
         </methods>
-      </class> <!-- com.nexsoft.cicool.TestLoginFunction -->
+      </class> <!-- com.nexsoft.cicool.TestRegisterFunction -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
